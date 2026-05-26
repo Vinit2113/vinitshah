@@ -14,7 +14,6 @@ I enjoy building:
 - Authentication systems
 - Fullstack applications
 - Backend architectures
-- Real-world scalable projects
 
 Currently improving my skills in:
 - Advanced JavaScript
@@ -30,6 +29,7 @@ Currently improving my skills in:
 - React.js
 - HTML5
 - CSS3
+- TailwindCss
 - JavaScript (ES6+)
 
 ### Backend
